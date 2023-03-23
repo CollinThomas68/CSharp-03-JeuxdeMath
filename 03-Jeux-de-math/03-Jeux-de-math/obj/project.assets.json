@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas\\source\\repos\\CollinThomas68\\CSharp-03-JeuxdeMath\\03-Jeux-de-math\\03-Jeux-de-math\\03-Jeux-de-math.csproj",
+      "projectUniqueName": "C:\\Formation\\C#\\Projet\\Repos\\CSharp-03-JeuxDeMath\\03-Jeux-de-math\\03-Jeux-de-math\\03-Jeux-de-math.csproj",
       "projectName": "03-Jeux-de-math",
-      "projectPath": "C:\\Users\\Thomas\\source\\repos\\CollinThomas68\\CSharp-03-JeuxdeMath\\03-Jeux-de-math\\03-Jeux-de-math\\03-Jeux-de-math.csproj",
+      "projectPath": "C:\\Formation\\C#\\Projet\\Repos\\CSharp-03-JeuxDeMath\\03-Jeux-de-math\\03-Jeux-de-math\\03-Jeux-de-math.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas\\source\\repos\\CollinThomas68\\CSharp-03-JeuxdeMath\\03-Jeux-de-math\\03-Jeux-de-math\\obj\\",
+      "outputPath": "C:\\Formation\\C#\\Projet\\Repos\\CSharp-03-JeuxDeMath\\03-Jeux-de-math\\03-Jeux-de-math\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
